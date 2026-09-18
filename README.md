@@ -2,7 +2,7 @@
 
 Repositório com alguns dos projetos que desenvolvi durante meus estudos e minha evolução como desenvolvedor de software.
 
-Os projetos estão organizados por área de desenvolvimento. Cada projeto apresenta uma breve descrição, algumas telas da aplicação e um link para o repositório completo.
+Os projetos estão organizados por área de desenvolvimento. Cada item possui uma breve descrição, algumas imagens, algumas tecnologias utilizadas e um link para o respectivo repositório, onde estão disponíveis mais detalhes sobre implementação, arquitetura, tecnologias utilizadas, funcionalidades entre outras informações.
 
 ## 📑 Sumário
 
