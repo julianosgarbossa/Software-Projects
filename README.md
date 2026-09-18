@@ -1,8 +1,8 @@
 # Projetos de Software
 
-Repositório com alguns dos projetos que desenvolvi durante meus estudos e minha evolução como desenvolvedor de software.
+Repositório que reúne alguns dos projetos desenvolvidos ao longo dos meus estudos e da minha evolução como desenvolvedor de software.
 
-Os projetos estão organizados por área de desenvolvimento. Cada item possui uma breve descrição, algumas imagens, algumas tecnologias utilizadas e um link para o respectivo repositório, onde estão disponíveis mais detalhes sobre implementação, arquitetura, tecnologias utilizadas, funcionalidades entre outras informações.
+Os projetos estão organizados por área de desenvolvimento. Cada item apresenta uma breve descrição, imagens da aplicação, principais tecnologias utilizadas e um link para o repositório completo, onde estão disponíveis mais detalhes sobre implementação, arquitetura, funcionalidades e decisões técnicas.
 
 ## 📑 Sumário
 
