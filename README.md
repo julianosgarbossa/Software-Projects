@@ -30,6 +30,20 @@ Aplicativo iOS que simula um marketplace de NFTs, permitindo explorar obras digi
   <img src="https://raw.githubusercontent.com/julianosgarbossa/BF-NFT/main/assets/04_Wallet.png" width="30%" />
 </p>
 
+### SwiftChat
+
+Aplicativo iOS de mensagens em tempo real, com cadastro e autenticação de usuários, gerenciamento de contatos e conversas individuais, permitindo o envio e recebimento de mensagens com atualização instantânea através do Cloud Firestore.
+
+**Tecnologias:** Swift • UIKit • View Code • MVVM • Firebase Authentication • Cloud Firestore
+
+[🔗 Ver Repositório no GitHub](https://github.com/julianosgarbossa/SwiftChat)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/SwiftChat/main/assets/01_Login.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/SwiftChat/main/assets/04_Chat.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/SwiftChat/main/assets/05_Home_Conversation.png" width="30%" />
+</p>
+
 ### SocialNetwork
 
 Aplicativo iOS de rede social com cadastro e autenticação de usuários, visualização de stories e publicações, interação por curtidas e carregamento remoto de dados.
