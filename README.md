@@ -44,6 +44,20 @@ Aplicativo iOS de mensagens em tempo real, com cadastro e autenticação de usu�
   <img src="https://raw.githubusercontent.com/julianosgarbossa/SwiftChat/main/assets/05_Home_Conversation.png" width="30%" />
 </p>
 
+### TuneLab
+
+Aplicativo iOS de catálogo musical que permite explorar playlists e suas faixas, visualizar informações como duração e curtidas e selecionar músicas em um mini player animado com progresso simulado.
+
+**Tecnologias:** Swift • UIKit • View Code • MVVM • Auto Layout • MarqueeLabel
+
+[🔗 Ver Repositório no GitHub](https://github.com/julianosgarbossa/TuneLab)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/TuneLab/main/assets/01_Home.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/TuneLab/main/assets/03_Detail_Player.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/TuneLab/main/assets/04_Detail_NavBar.png" width="30%" />
+</p>
+
 ### SocialNetwork
 
 Aplicativo iOS de rede social com cadastro e autenticação de usuários, visualização de stories e publicações, interação por curtidas e carregamento remoto de dados.
