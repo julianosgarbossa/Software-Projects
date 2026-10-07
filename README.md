@@ -72,6 +72,18 @@ Aplicativo iOS de rede social com cadastro e autenticação de usuários, visual
   <img src="https://raw.githubusercontent.com/julianosgarbossa/SocialNetwork/main/assets/04_Home_Like.png" width="30%" />
 </p>
 
+### WeatherForecast
+
+Aplicativo iOS de previsão do tempo que apresenta temperatura, umidade, velocidade do vento, previsão por hora e temperaturas mínimas e máximas dos próximos dias, com interface adaptada entre os períodos diurno e noturno.
+
+**Tecnologias:** Swift • UIKit • View Code • MVVM • Auto Layout • URLSession • JSONDecoder
+
+[🔗 Ver Repositório no GitHub](https://github.com/julianosgarbossa/WeatherForecast)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/WeatherForecast/main/assets/01_Home.png" width="30%" />
+</p>
+
 ---
 
 <a id="desenvolvimento-flutter"></a>
