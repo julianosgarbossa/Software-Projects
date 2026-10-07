@@ -81,7 +81,8 @@ Aplicativo iOS de previsão do tempo que apresenta temperatura, umidade, velocid
 [🔗 Ver Repositório no GitHub](https://github.com/julianosgarbossa/WeatherForecast)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/julianosgarbossa/WeatherForecast/main/assets/01_Home.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/WeatherForecast/main/assets/01_Home_Day.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/WeatherForecast/main/assets/02_Home_Night.png" width="30%" />
 </p>
 
 ---
