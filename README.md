@@ -72,6 +72,20 @@ Aplicativo iOS de rede social com cadastro e autenticação de usuários, visual
   <img src="https://raw.githubusercontent.com/julianosgarbossa/SocialNetwork/main/assets/04_Home_Like.png" width="30%" />
 </p>
 
+### FuelPick
+
+Aplicativo iOS que compara os preços por litro do álcool e da gasolina e indica qual combustível escolher com base na proporção de 70%, com validação dos valores informados, cálculo local e uma tela de resultado com a opção de calcular novamente.
+
+**Tecnologias:** Swift • UIKit • View Code • MVVM • Auto Layout • IQKeyboardManagerSwift
+
+[🔗 Ver Repositório no GitHub](https://github.com/julianosgarbossa/FuelPick)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/FuelPick/main/assets/01_Home.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/FuelPick/main/assets/02_Calculator.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/FuelPick/main/assets/03_Result_Gas.png" width="30%" />
+</p>
+
 ### WeatherForecast
 
 Aplicativo iOS de previsão do tempo que apresenta temperatura, umidade, velocidade do vento, previsão por hora e temperaturas mínimas e máximas dos próximos dias, com interface adaptada entre os períodos diurno e noturno.
