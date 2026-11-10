@@ -30,6 +30,20 @@ Aplicativo iOS que simula um marketplace de NFTs, permitindo explorar obras digi
   <img src="https://raw.githubusercontent.com/julianosgarbossa/BF-NFT/main/assets/04_Wallet.png" width="30%" />
 </p>
 
+### Nearby
+
+Aplicativo iOS para explorar estabelecimentos em um mapa interativo, filtrar locais por categoria e navegar por uma lista em um painel expansível. Permite consultar detalhes como descrição, endereço, telefone e quantidade de cupons disponíveis, além de exibir um código de cupom demonstrativo.
+
+**Tecnologias:** Swift • UIKit • View Code • MVVM • Coordinator • MapKit • URLSession
+
+[🔗 Ver Repositório no GitHub](https://github.com/julianosgarbossa/Nearby)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/Nearby/main/assets/02_Welcome.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/Nearby/main/assets/04_Home_Drag.png" width="30%" />
+  <img src="https://raw.githubusercontent.com/julianosgarbossa/Nearby/main/assets/05_Detail.png" width="30%" />
+</p>
+
 ### SwiftChat
 
 Aplicativo iOS de mensagens em tempo real, com cadastro e autenticação de usuários, gerenciamento de contatos e conversas individuais, permitindo o envio e recebimento de mensagens com atualização instantânea através do Cloud Firestore.
